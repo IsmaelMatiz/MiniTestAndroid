@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterClicker</string>
+    <string name="txtbuttonIncrease">Aumentar</string>
+</resources>
